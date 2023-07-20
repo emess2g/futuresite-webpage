@@ -545,6 +545,14 @@ footer button{
     background-color: black;
 }
 
-.app__icon{
-  
+i {
+    font-size: 30px;
+}
+
+
+
+.social__media{
+    display: flex;
+    font-size: 30px;
+    gap: 1rem;
 }
